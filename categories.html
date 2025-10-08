@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Категории — AR Menu</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header><h1>Категории</h1></header>
+  <main>
+    <ul id="categories-list" class="categories">
+    </ul>
+  </main>
+  <script>
+    const categories = ["breakfast", "hot_dishes", "steaks", "salads", "soups", "pizza", "italian", "desserts", "sides", "snacks", "kids"];
+    const ul = document.getElementById('categories-list');
+    categories.forEach(cat => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = 'category.html?cat=' + encodeURIComponent(cat);
+      a.textContent = cat[0].toUpperCase() + cat.slice(1);
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,492 @@
+{
+  "breakfast": [
+    {
+      "key": "fried_eggs",
+      "name": "Fried Eggs",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/fried_eggs.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/fried_eggs.usdz"
+    },
+    {
+      "key": "omelette_cheese",
+      "name": "Omelette Cheese",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/omelette_cheese.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/omelette_cheese.usdz"
+    },
+    {
+      "key": "pancakes_honey",
+      "name": "Pancakes Honey",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/pancakes_honey.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/pancakes_honey.usdz"
+    },
+    {
+      "key": "croissant_butter",
+      "name": "Croissant Butter",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/croissant_butter.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/croissant_butter.usdz"
+    },
+    {
+      "key": "sandwich_ham",
+      "name": "Sandwich Ham",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/sandwich_ham.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/sandwich_ham.usdz"
+    },
+    {
+      "key": "toast_avocado",
+      "name": "Toast Avocado",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/toast_avocado.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/toast_avocado.usdz"
+    },
+    {
+      "key": "sausage_eggs",
+      "name": "Sausage Eggs",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/sausage_eggs.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/sausage_eggs.usdz"
+    },
+    {
+      "key": "porridge_milk",
+      "name": "Porridge Milk",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/porridge_milk.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/porridge_milk.usdz"
+    },
+    {
+      "key": "yogurt_bowl",
+      "name": "Yogurt Bowl",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/yogurt_bowl.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/yogurt_bowl.usdz"
+    },
+    {
+      "key": "french_toast",
+      "name": "French Toast",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/french_toast.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/french_toast.usdz"
+    },
+    {
+      "key": "breakfast_burrito",
+      "name": "Breakfast Burrito",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/breakfast_burrito.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/breakfast_burrito.usdz"
+    },
+    {
+      "key": "waffles_maple",
+      "name": "Waffles Maple",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/waffles_maple.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/breakfast/waffles_maple.usdz"
+    }
+  ],
+  "hot_dishes": [
+    {
+      "key": "beef_stroganoff",
+      "name": "Beef Stroganoff",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/beef_stroganoff.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/beef_stroganoff.usdz"
+    },
+    {
+      "key": "chicken_curry",
+      "name": "Chicken Curry",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/chicken_curry.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/chicken_curry.usdz"
+    },
+    {
+      "key": "grilled_salmon",
+      "name": "Grilled Salmon",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/grilled_salmon.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/grilled_salmon.usdz"
+    },
+    {
+      "key": "roast_chicken",
+      "name": "Roast Chicken",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/roast_chicken.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/roast_chicken.usdz"
+    },
+    {
+      "key": "meatballs_rice",
+      "name": "Meatballs Rice",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/meatballs_rice.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/meatballs_rice.usdz"
+    },
+    {
+      "key": "beef_goulash",
+      "name": "Beef Goulash",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/beef_goulash.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/beef_goulash.usdz"
+    },
+    {
+      "key": "lamb_kebab",
+      "name": "Lamb Kebab",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/lamb_kebab.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/hot_dishes/lamb_kebab.usdz"
+    }
+  ],
+  "steaks": [
+    {
+      "key": "ribeye_steak",
+      "name": "Ribeye Steak",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/ribeye_steak.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/ribeye_steak.usdz"
+    },
+    {
+      "key": "tbone_steak",
+      "name": "T-Bone Steak",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/tbone_steak.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/tbone_steak.usdz"
+    },
+    {
+      "key": "filet_mignon",
+      "name": "Filet Mignon",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/filet_mignon.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/filet_mignon.usdz"
+    },
+    {
+      "key": "sirloin_steak",
+      "name": "Sirloin Steak",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/sirloin_steak.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/steaks/sirloin_steak.usdz"
+    }
+  ],
+  "salads": [
+    {
+      "key": "caesar_salad",
+      "name": "Caesar Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/caesar_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/caesar_salad.usdz"
+    },
+    {
+      "key": "greek_salad",
+      "name": "Greek Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/greek_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/greek_salad.usdz"
+    },
+    {
+      "key": "tuna_salad",
+      "name": "Tuna Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/tuna_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/tuna_salad.usdz"
+    },
+    {
+      "key": "caprese_salad",
+      "name": "Caprese Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/caprese_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/caprese_salad.usdz"
+    },
+    {
+      "key": "avocado_salad",
+      "name": "Avocado Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/avocado_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/avocado_salad.usdz"
+    },
+    {
+      "key": "chicken_salad",
+      "name": "Chicken Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/chicken_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/chicken_salad.usdz"
+    },
+    {
+      "key": "coleslaw_salad",
+      "name": "Coleslaw Salad",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/coleslaw_salad.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/salads/coleslaw_salad.usdz"
+    }
+  ],
+  "soups": [
+    {
+      "key": "chicken_soup",
+      "name": "Chicken Soup",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/chicken_soup.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/chicken_soup.usdz"
+    },
+    {
+      "key": "tomato_soup",
+      "name": "Tomato Soup",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/tomato_soup.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/tomato_soup.usdz"
+    },
+    {
+      "key": "pumpkin_soup",
+      "name": "Pumpkin Soup",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/pumpkin_soup.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/pumpkin_soup.usdz"
+    },
+    {
+      "key": "broccoli_soup",
+      "name": "Broccoli Soup",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/broccoli_soup.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/broccoli_soup.usdz"
+    },
+    {
+      "key": "diet_bowl",
+      "name": "Diet Bowl",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/diet_bowl.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/diet_bowl.usdz"
+    },
+    {
+      "key": "healthy_mix",
+      "name": "Healthy Mix",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/healthy_mix.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/soups/healthy_mix.usdz"
+    }
+  ],
+  "pizza": [
+    {
+      "key": "margherita_pizza",
+      "name": "Margherita Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/margherita_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/margherita_pizza.usdz"
+    },
+    {
+      "key": "pepperoni_pizza",
+      "name": "Pepperoni Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/pepperoni_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/pepperoni_pizza.usdz"
+    },
+    {
+      "key": "four_cheese_pizza",
+      "name": "Four Cheese Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/four_cheese_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/four_cheese_pizza.usdz"
+    },
+    {
+      "key": "hawaiian_pizza",
+      "name": "Hawaiian Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/hawaiian_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/hawaiian_pizza.usdz"
+    },
+    {
+      "key": "bbq_chicken_pizza",
+      "name": "BBQ Chicken Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/bbq_chicken_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/bbq_chicken_pizza.usdz"
+    },
+    {
+      "key": "veggie_pizza",
+      "name": "Veggie Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/veggie_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/veggie_pizza.usdz"
+    },
+    {
+      "key": "meat_lovers_pizza",
+      "name": "Meat Lovers Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/meat_lovers_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/pizza/meat_lovers_pizza.usdz"
+    }
+  ],
+  "italian": [
+    {
+      "key": "spaghetti_bolognese",
+      "name": "Spaghetti Bolognese",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/spaghetti_bolognese.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/spaghetti_bolognese.usdz"
+    },
+    {
+      "key": "lasagna",
+      "name": "Lasagna",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/lasagna.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/lasagna.usdz"
+    },
+    {
+      "key": "carbonara",
+      "name": "Carbonara",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/carbonara.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/carbonara.usdz"
+    },
+    {
+      "key": "alfredo_pasta",
+      "name": "Alfredo Pasta",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/alfredo_pasta.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/alfredo_pasta.usdz"
+    },
+    {
+      "key": "gnocchi",
+      "name": "Gnocchi",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/gnocchi.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/gnocchi.usdz"
+    },
+    {
+      "key": "risotto",
+      "name": "Risotto",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/risotto.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/italian/risotto.usdz"
+    }
+  ],
+  "desserts": [
+    {
+      "key": "chocolate_cake",
+      "name": "Chocolate Cake",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/chocolate_cake.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/chocolate_cake.usdz"
+    },
+    {
+      "key": "cheesecake",
+      "name": "Cheesecake",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/cheesecake.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/cheesecake.usdz"
+    },
+    {
+      "key": "tiramisu",
+      "name": "Tiramisu",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/tiramisu.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/tiramisu.usdz"
+    },
+    {
+      "key": "fruit_tart",
+      "name": "Fruit Tart",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/fruit_tart.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/fruit_tart.usdz"
+    },
+    {
+      "key": "brownie",
+      "name": "Brownie",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/brownie.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/brownie.usdz"
+    },
+    {
+      "key": "ice_cream_bowl",
+      "name": "Ice Cream Bowl",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/ice_cream_bowl.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/ice_cream_bowl.usdz"
+    },
+    {
+      "key": "macarons",
+      "name": "Macarons",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/macarons.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/desserts/macarons.usdz"
+    }
+  ],
+  "sides": [
+    {
+      "key": "mashed_potatoes",
+      "name": "Mashed Potatoes",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/mashed_potatoes.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/mashed_potatoes.usdz"
+    },
+    {
+      "key": "french_fries",
+      "name": "French Fries",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/french_fries.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/french_fries.usdz"
+    },
+    {
+      "key": "rice_pilaf",
+      "name": "Rice Pilaf",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/rice_pilaf.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/rice_pilaf.usdz"
+    },
+    {
+      "key": "steamed_vegetables",
+      "name": "Steamed Vegetables",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/steamed_vegetables.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/steamed_vegetables.usdz"
+    },
+    {
+      "key": "grilled_corn",
+      "name": "Grilled Corn",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/grilled_corn.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/grilled_corn.usdz"
+    },
+    {
+      "key": "couscous",
+      "name": "Couscous",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/couscous.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/sides/couscous.usdz"
+    }
+  ],
+  "snacks": [
+    {
+      "key": "chicken_nuggets",
+      "name": "Chicken Nuggets",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/chicken_nuggets.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/chicken_nuggets.usdz"
+    },
+    {
+      "key": "onion_rings",
+      "name": "Onion Rings",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/onion_rings.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/onion_rings.usdz"
+    },
+    {
+      "key": "mozzarella_sticks",
+      "name": "Mozzarella Sticks",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mozzarella_sticks.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mozzarella_sticks.usdz"
+    },
+    {
+      "key": "garlic_bread",
+      "name": "Garlic Bread",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/garlic_bread.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/garlic_bread.usdz"
+    },
+    {
+      "key": "mini_tacos",
+      "name": "Mini Tacos",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mini_tacos.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mini_tacos.usdz"
+    },
+    {
+      "key": "mini_burgers",
+      "name": "Mini Burgers",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mini_burgers.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/mini_burgers.usdz"
+    },
+    {
+      "key": "cheese_balls",
+      "name": "Cheese Balls",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/cheese_balls.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/cheese_balls.usdz"
+    },
+    {
+      "key": "popcorn",
+      "name": "Popcorn",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/popcorn.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/popcorn.usdz"
+    },
+    {
+      "key": "nachos",
+      "name": "Nachos",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/nachos.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/snacks/nachos.usdz"
+    }
+  ],
+  "kids": [
+    {
+      "key": "kids_burger",
+      "name": "Kids Burger",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_burger.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_burger.usdz"
+    },
+    {
+      "key": "kids_mini_pizza",
+      "name": "Mini Pizza",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_mini_pizza.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_mini_pizza.usdz"
+    },
+    {
+      "key": "kids_chicken_fingers",
+      "name": "Chicken Fingers",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_chicken_fingers.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_chicken_fingers.usdz"
+    },
+    {
+      "key": "kids_mini_pasta",
+      "name": "Mini Pasta",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_mini_pasta.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_mini_pasta.usdz"
+    },
+    {
+      "key": "kids_fish_sticks",
+      "name": "Fish Sticks",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_fish_sticks.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_fish_sticks.usdz"
+    },
+    {
+      "key": "kids_pancake_smiles",
+      "name": "Pancake Smiles",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_pancake_smiles.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_pancake_smiles.usdz"
+    },
+    {
+      "key": "kids_fruit_cup",
+      "name": "Fruit Cup",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_fruit_cup.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/project08-models/models/kids/kids_fruit_cup.usdz"
+    }
+  ]
+}

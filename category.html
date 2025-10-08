@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Категория — AR Menu</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header><h1 id="cat-title">Категория</h1></header>
+  <main>
+    <ul id="dishes-list" class="dishes"></ul>
+  </main>
+  <script>
+    // load menu.json
+    fetch('data/menu.json').then(r=>r.json()).then(menu=>{
+      const params = new URLSearchParams(location.search);
+      const cat = params.get('cat');
+      document.getElementById('cat-title').textContent = cat;
+      const list = menu[cat];
+      const ul = document.getElementById('dishes-list');
+      list.forEach(item=>{
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = 'dish.html?cat=' + encodeURIComponent(cat) + '&key=' + encodeURIComponent(item.key);
+        a.textContent = item.name;
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+    });
+  </script>
+</body>
+</html>
