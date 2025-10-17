@@ -1,24 +1,28 @@
 {
-  "Завтраки": [
+  "Завтрак": [
     {
-      "name": "Яичница с колбасой",
-      "price": "1500 ₸",
-      "model_usdz": "models/eggs.usdz",
-      "model_glb": "models/eggs.glb"
+      "name": "Завтрак буррито 🌯",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/breakfast/breakfast_burrito.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/breakfast/breakfast_burrito.usdz"
     },
     {
-      "name": "Блины с мёдом",
-      "price": "1300 ₸",
-      "model_usdz": "models/pancake.usdz",
-      "model_glb": "models/pancake.glb"
+      "name": "Блины 🥞",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/breakfast/pancakes.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/breakfast/pancakes.usdz"
     }
   ],
   "Супы": [
     {
-      "name": "Борщ",
-      "price": "2000 ₸",
-      "model_usdz": "models/borsh.usdz",
-      "model_glb": "models/borsh.glb"
+      "name": "Борщ 🍲",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/soups/borscht.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/soups/borscht.usdz"
+    }
+  ],
+  "Стейки": [
+    {
+      "name": "Рибай 🥩",
+      "glb": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/steak/ribeye.glb",
+      "usdz": "https://cdn.jsdelivr.net/gh/Oseke08/penka-models/steak/ribeye.usdz"
     }
   ]
 }
