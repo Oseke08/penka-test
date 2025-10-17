@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Penka Test</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penka AR Меню 🍽️</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>AR Меню Penka 🍽️</h1>
-  <p>Пример тестовой страницы с моделью.</p>
-  <model-viewer src="https://cdn.jsdelivr.net/gh/Oseke08/penka-models/egg.glb" ar auto-rotate camera-controls></model-viewer>
-
-  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+  <div class="container">
+    <h1>Penka AR Меню 🍽️</h1>
+    <p>Выберите вашу платформу:</p>
+    <button onclick="selectPlatform('ios')">🍎 iOS</button>
+    <button onclick="selectPlatform('android')">🤖 Android</button>
+  </div>
+  <script src="js/scripts.js"></script>
 </body>
 </html>

@@ -1,16 +1,7 @@
 {
-  "name": "penka-test",
+  "name": "penka-ar-menu",
   "version": "1.0.0",
-  "description": "Тестовый проект AR-меню Penka",
-  "main": "index.html",
-  "scripts": {
-    "start": "echo 'Проект Penka запущен локально'",
-    "build": "echo 'Сборка проекта завершена'",
-    "deploy": "echo 'Проект Penka развернут на GitHub Pages'"
-  },
-  "author": "Oseke08",
-  "license": "MIT",
-  "homepage": "https://oseke08.github.io/penka-test",
-  "dependencies": {},
-  "devDependencies": {}
+  "description": "AR Menu Website",
+  "scripts": {},
+  "dependencies": {}
 }

@@ -1,42 +1,17 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="utf-8">
-  <title>Блюдо — AR Menu</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Блюда</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header><h1 id="dish-title">Блюдо</h1></header>
-  <main>
-    <div id="viewer-wrap"></div>
-    <p><a href="categories.html">← Назад к категориям</a></p>
-  </main>
-  <script>
-    fetch('data/menu.json').then(r=>r.json()).then(menu=>{
-      const params = new URLSearchParams(location.search);
-      const cat = params.get('cat');
-      const key = params.get('key');
-      const item = menu[cat].find(i=>i.key===key);
-      document.getElementById('dish-title').textContent = item.name;
-      const viewerWrap = document.getElementById('viewer-wrap');
-      const mv = document.createElement('model-viewer');
-      mv.setAttribute('alt', item.name);
-      mv.setAttribute('style', 'width:100%; height:500px;');
-      mv.setAttribute('camera-controls', '');
-      mv.setAttribute('auto-rotate', '');
-      mv.setAttribute('ar', '');
-      const platform = localStorage.getItem('platform') || 'android';
-      const glb = item.glb;
-      const usdz = item.usdz;
-      if(platform==='ios'){
-        mv.setAttribute('ios-src', usdz);
-      } else {
-        mv.setAttribute('src', glb);
-      }
-      viewerWrap.appendChild(mv);
-    });
-  </script>
+  <div class="container">
+    <h1 id="categoryTitle"></h1>
+    <div id="dishesContainer" class="grid"></div>
+    <button onclick="goBack()">⬅ Назад</button>
+  </div>
+  <script src="js/scripts.js"></script>
 </body>
 </html>
